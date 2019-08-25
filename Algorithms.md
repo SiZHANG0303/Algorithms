@@ -23,4 +23,5 @@
 * Sort the two halves
 * Merge the two halves to make a sorted whole.
 <br>
-
+![Mergesort_analysis]()
+![Empirical_tests]
