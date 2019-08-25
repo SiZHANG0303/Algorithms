@@ -7,8 +7,8 @@
 * If it is larger, search the half with lower indices
 * If it is smaller, search the half with upper indices
 
-![Aaron Swartz](https://raw.githubusercontent.com/SiZHANG0303/Algorithms/master/Mathematical_analysis_of_binary_search.png)
-![Aaron Swartz]()
+![Math_analysis](https://raw.githubusercontent.com/SiZHANG0303/Algorithms/master/Mathematical_analysis_of_binary_search.png)
+![Empirical_tests](https://raw.githubusercontent.com/SiZHANG0303/Algorithms/master/Empirical_tests_of_binary_search.png)
 ### 1-2 Insertion sort
 Insertion sort comes from the idea of bubble sort.
 
