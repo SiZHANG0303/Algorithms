@@ -22,6 +22,15 @@
 * Divide the array in half
 * Sort the two halves
 * Merge the two halves to make a sorted whole.
-<br>
-![Mergesort_analysis]()
-![Empirical_tests]
+
+![Mergesort_analysis](https://raw.githubusercontent.com/SiZHANG0303/Algorithms/master/Mergesort_analysis.png)
+![Empirical_tests](https://raw.githubusercontent.com/SiZHANG0303/Algorithms/master/Empirical_tests_of_mergesort.png)
+
+### 1-4 Longest repeated substring
+
+![suffix_string](https://raw.githubusercontent.com/SiZHANG0303/Algorithms/master/LRS_suffix_string.png)
+![Empirical_tests](https://raw.githubusercontent.com/SiZHANG0303/Algorithms/master/LRS_empirical_nanlysis.png)
+
+### summery
+* Binary search: efficient algorithm to search a sorted array
+* Mergesort: efficient algorithm to sort an array
