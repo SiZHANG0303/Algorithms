@@ -1,5 +1,4 @@
-
-# Algorithms
+# Algorithms (Cousera Computer Science: Algorithms, Theory, and Machines by Princeton University)
 ## 1- Sorting and Searching
 ### 1-1 Binary search
 * Keep the array in sorted order
@@ -7,6 +6,9 @@
 * If it matches, return its index
 * If it is larger, search the half with lower indices
 * If it is smaller, search the half with upper indices
+
+![Aaron Swartz](https://raw.githubusercontent.com/SiZHANG0303/Algorithms/master/Mathematical_analysis_of_binary_search.png)
+![Aaron Swartz]()
 ### 1-2 Insertion sort
 Insertion sort comes from the idea of bubble sort.
 
