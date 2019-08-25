@@ -10,7 +10,12 @@
 ![Math_analysis](https://raw.githubusercontent.com/SiZHANG0303/Algorithms/master/Mathematical_analysis_of_binary_search.png)
 ![Empirical_tests](https://raw.githubusercontent.com/SiZHANG0303/Algorithms/master/Empirical_tests_of_binary_search.png)
 ### 1-2 Insertion sort
-Insertion sort comes from the idea of bubble sort.
+* Move down through the array
+* Each item *bubbles up* above the larger ones above it
+* Everything above the current item is in order
+* Everything below the current item is untouched
+* Like bubble sort but not; simpler and faster
+![Empirical_tests]()
 
 ### 1-3 Merge sort
 Mergesort: divide the array in half, sort the two halves, merge the two halves to make a sorted whole.
