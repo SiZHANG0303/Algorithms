@@ -31,6 +31,6 @@
 ![suffix_string](https://raw.githubusercontent.com/SiZHANG0303/Algorithms/master/LRS_suffix_string.png)
 ![Empirical_tests](https://raw.githubusercontent.com/SiZHANG0303/Algorithms/master/LRS_empirical_nanlysis.png)
 
-### summery
+### Summary
 * Binary search: efficient algorithm to search a sorted array
 * Mergesort: efficient algorithm to sort an array
