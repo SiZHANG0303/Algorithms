@@ -34,3 +34,7 @@
 ### Summary
 * Binary search: efficient algorithm to search a sorted array
 * Mergesort: efficient algorithm to sort an array
+
+## Stack and Queue
+* Stack: Last In First Out(push/pop)
+* Queue: First In First Out(Enqueue/Dequeue)
